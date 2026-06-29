@@ -68,7 +68,7 @@ Minor checks
 - [x] Fastbootd
 
 # Clone
-    git clone https://github.com/tetsuKiri/android_device_tecno_CE8.git -b master device/tecno/ce8_h693
+    git clone https://github.com/tetsuKiri/android_device_tecno_CE8.git device/tecno/ce8_h693
 
 # Build
     export ALLOW_MISSING_DEPENDENCIES=true; . build/envsetup.sh; lunch twrp_LH8n-eng; mka recoveryimage
